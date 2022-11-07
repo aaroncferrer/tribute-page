@@ -127,7 +127,7 @@ body {
 }
 
 #img-div{
-    background-image: url(../tribute-page/leni-cropped.jpg);
+    background-image: url(./leni-cropped.jpg);
     background-size: cover;
     min-height: 75vh;
 }
